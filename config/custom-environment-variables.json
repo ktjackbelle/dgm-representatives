@@ -3,5 +3,6 @@
   "port": "PORT",
   "logging": {
     "console": "LOGGING_CONSOLE"
-  }
+  },
+  "repHost": "REP_HOST"
 }
